@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Aditya
-- 👀 I’m interested in Problem solving using Java and Python for data analysis, statistical summary and Algorithm building.
+- 👀 I’m interested in problem solving using Java and Python for data analysis and statistical summary.
 - 🌱 I’m currently learning Java, MySQL database application building for backend development.
 - 💞️ I’m looking to collaborate on software development for Database Engineering and Industrial Engineering applications.
 - 📫 How to reach me: gmail: mvsadi5@gmail.com
