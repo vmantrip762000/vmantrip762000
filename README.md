@@ -2,7 +2,7 @@ As a Graduate Student with a master's degree in data science from the University
 
 Programming: Python, C++, Java, JavaScript, PHP, HTML, CSS
 
-Data: SQL, NoSQL, Big Data,Spark, Hadoop, Hive, Airflow (ETL Data Pipelines), Tableau.
+Data Science Tools: SQL, NoSQL, Big Data,Spark, Hadoop, Hive, Airflow (ETL Data Pipelines), Tableau.
 
 Tools & platforms: Git, Docker, Agile, Linux, AWS( IAM,EC2, S3,Redshift, Lambda, Kinesis, Seagemaker, Glue,Rekognition.RDBS), Data Warehouse, Data Modeling, OLTP, OLAP.
 
