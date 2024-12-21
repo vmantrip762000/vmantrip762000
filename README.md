@@ -8,7 +8,7 @@ Tools & platforms: Git, Docker, Agile, Linux, AWS( IAM,EC2, S3,Redshift, Lambda,
 
 Frameworks & Tech: Pandas, Numpy, Django, Flask, Oauth, OpenCV, OCR, Computer Vision, NLP, ML algorithms, Salesforce, Tensorflow, Postman, Neural Networks, Scikit.
 
-Others: Data Structure and Algorithms, Strong Communication Skills, Strong Debugging Skills, Strong Problem Solving,
+Others: Data Structure and Algorithms, Strong Communication Skills, Debugging Skills, Problem Solving,
 
 
 I am a versatile programmer driven by a strong commitment to excellence in software development, data Engineering , and problem-solving. I possess ability to work independently and within a team. I am willing to learn new technologies to improve myself and keep up with the changing landscape of technology. I am actively looking for work opportunities that will allow me to leverage my skills and experience, and to grow as a Supply Chain Analyst, Data Scientist, SWE, QA.
