@@ -1,4 +1,4 @@
-As a Graduate Student with a master's degree in data science from the University at Buffalo, I am passionate about dealing with data, automation and software products that enhance productivity, accuracy, and efficiency in day to day software products. I have extensive knowledge and experience in various programming languages, frameworks, tools, and technologies, such as
+As a Graduate with a master's degree in data science from the University at Buffalo, I am passionate about dealing with data, automation and software products that enhance productivity, accuracy, and efficiency in day to day software products. I have extensive knowledge and experience in various programming languages, frameworks, tools, and technologies, such as
 
 Programming: Python, C++, Java, JavaScript, HTML, CSS
 
