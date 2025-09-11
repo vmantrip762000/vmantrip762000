@@ -4,7 +4,7 @@ Programming: Python, Java, JavaScript, HTML, CSS
 
 Data Science Tools: SQL, NoSQL, Big Data,Spark, Hadoop, Hive, Tableau.
 
-Tools & platforms: Git, Docker, Agile, Linux, AWS( IAM,EC2, S3,Redshift, Lambda, Kinesis, Seagemaker, Glue,Rekognition.RDBS), Data Warehouse, Data Modeling, OLTP, OLAP.
+Tools & platforms: Git, Docker, Agile, Linux
 
 Frameworks & Tech: Pandas, Numpy, Django, Flask, Oauth, OpenCV, OCR, Computer Vision, NLP, ML algorithms, Tensorflow, Postman, Neural Networks, Scikit.
 
