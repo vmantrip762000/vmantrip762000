@@ -2,13 +2,11 @@ As a Graduate with a master's degree in data science from the University at Buff
 
 Programming: Python, HTML, CSS, YAML, Shell
 
-Data Science Tools: SQL, NoSQL, Big Data,Spark, Hadoop, Hive, Tableau.
+Data Science Tools: SQL, NoSQL, Tableau.
 
 Tools & platforms: Git, Docker, Agile, Linux
 
-Frameworks & Tech: Pandas, Numpy, Django, Flask, Oauth, OpenCV, OCR, Computer Vision, NLP, ML algorithms, Tensorflow, Postman, Neural Networks, Scikit.
-
-Others: Data Structure and Algorithms, Strong Communication Skills, Debugging Skills, Problem Solving,
+Frameworks & Tech: Pandas, Numpy, Django, Flask, Oauth, Computer Vision, NLP, ML algorithms, Tensorflow, Postman, Neural Networks, Scikit.
 
 
 I am a versatile engineer driven by a strong commitment to excellence in software development, data Engineering , and problem-solving. I possess ability to work independently and within a team. I am willing to learn new technologies to improve myself and keep up with the changing landscape of technology. I am actively looking for work opportunities that will allow me to leverage my skills and experience, and progress forward in modern tech.
